@@ -8,9 +8,13 @@ body {
   height: 100%;
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
-  text-shadow: 2px 1px #181818;
   background-color: black;
 }
+
+.black-shadow { 
+  text-shadow: 2px 1px #181818;
+}
+
 ul li { list-style-type:none; }
 html {
   width: 100%;
